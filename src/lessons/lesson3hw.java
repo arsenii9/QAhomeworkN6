@@ -40,6 +40,14 @@ int string12 = string1.length();
         boolean tf = test22 > test33 & test22 > test44 & test22 >test55 & test22 > test66;
         System.out.println("==========");
         System.out.println(tf);
+            System.out.println("=========================================================================");
+            System.out.println("Task 3");
+
+            String string = "Completely random text in English. In it, we just need to determine how many times the character 'a' occurs there. And we can use the split method and the length method.";
+            String[] strings = string.split("a");
+            int stringsint = strings.length;
+            System.out.println(stringsint - 1);
+
 
     }
 }
