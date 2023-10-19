@@ -2,7 +2,7 @@ package lessons;
 
 import java.util.Scanner;
 
-public class lesson4hw2 {
+public class lesson4hw3 {
     public static void main(String[] args) {
         System.out.println("ВВедите два числа чтобы получить их разницу.");
         Scanner scanner = new Scanner(System.in);
