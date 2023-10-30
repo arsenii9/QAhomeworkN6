@@ -1,11 +1,9 @@
 package lessons;
 
-import org.w3c.dom.ls.LSOutput;
-
 import java.util.Random;
 import java.util.Scanner;
 
-public class хв777 {
+public class hw777 {
     public static void main(String[] args) {
         char[][] gameBoard = new char[5][5];
         initializeGameBoard(gameBoard);
