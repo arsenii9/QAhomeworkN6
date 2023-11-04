@@ -2,7 +2,7 @@ package lessons;
 import java.util.Random;
 import java.util.Scanner;
 
-public class hw777 {
+public class Hw777 {
     public static void main(String[] args) {
         char[][] gameBoard = new char[5][5];
 

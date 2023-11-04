@@ -2,7 +2,7 @@ package lessons;
 
 import java.util.Scanner;
 
-public class lesson4hw5 {
+public class Lesson4hw5 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 

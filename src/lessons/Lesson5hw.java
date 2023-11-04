@@ -2,7 +2,7 @@ package lessons;
 
 import java.util.Scanner;
 
-public class lesson5hw {
+public class Lesson5hw {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         String[] words = new String[100]; // Максимальное количество слов, которое может быть в предложении

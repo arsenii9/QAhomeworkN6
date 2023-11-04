@@ -2,7 +2,7 @@ package lessons;
 
 import java.util.Scanner;
 
-public class lesson5hw4 {
+public class Lesson5hw4 {
     public static void main(String[] args) {
         String[] names = {"Петя", "Маша", "Алёна", "Федя", "Саша", "Антон", "Глеб"};
         int[] times = {10, 12, 14, 16, 18, 20};

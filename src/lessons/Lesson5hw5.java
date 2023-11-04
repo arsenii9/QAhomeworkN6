@@ -2,7 +2,7 @@ package lessons;
 
 import java.util.Scanner;
 
-public class lesson5hw5 {
+public class Lesson5hw5 {
     public static void main(String[] args) {
         int[] numbers = {1, 4, 7, 10, 15, 23, 45, 60, 77, 99};
         Scanner scanner = new Scanner(System.in);

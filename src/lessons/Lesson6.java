@@ -3,7 +3,7 @@ package lessons;
 import java.util.Arrays;
 import java.util.Random;
 
-public class lesson6 {
+public class Lesson6 {
     /*Заполнить массив на 10 элементов случайными числами от 0 до 100.
     Вывести в консоль все значения данного массива.
     Найти минимальный элемент и вывести его на консоль.*/

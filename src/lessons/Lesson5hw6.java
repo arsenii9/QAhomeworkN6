@@ -2,7 +2,7 @@ package lessons;
 
 import java.util.Random;
 
-public class lesson5hw6 {
+public class Lesson5hw6 {
     public static void main(String[] args) {
         int[] array = new int[45];
         Random random = new Random();

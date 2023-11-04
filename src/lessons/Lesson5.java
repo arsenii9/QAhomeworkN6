@@ -2,7 +2,7 @@ package lessons;
 
 import java.util.Scanner;
 
-public class lesson5 {
+public class Lesson5 {
     public static void main(String[] args) {
        /* 4)Пользователь вводит слово с клавиатуры, оно выводится в консоль таким образом, что каждый символ
         выводится через пробел. Используем для этого цикл for.

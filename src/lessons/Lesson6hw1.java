@@ -3,7 +3,7 @@ package lessons;
 import java.util.Random;
 import java.util.Scanner;
 
-public class lesson6hw1 {
+public class Lesson6hw1 {
     public static void main(String[] args) {
         Random random = new Random( );
         int random2 = random.nextInt(101);

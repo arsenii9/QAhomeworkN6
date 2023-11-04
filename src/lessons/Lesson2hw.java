@@ -1,6 +1,6 @@
 package lessons;
 
-public class lesson2hw {
+public class Lesson2hw {
     public static void main(String[] args) {
         int a = 7;
         int b = 9;

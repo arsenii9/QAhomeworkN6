@@ -2,7 +2,7 @@ package lessons;
 
 import java.util.Scanner;
 
-public class lesson5hw3 {
+public class Lesson5hw3 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int maxCapacity = 100; // Максимальная вместимость склада

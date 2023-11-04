@@ -1,6 +1,6 @@
 package lessons;
 
-public class lesson3hw {
+public class Lesson3hw {
     public static void main(String[] args) {
         System.out.println("Task One:");
         String string1 = "This line that i want to cut, cause it is too long";

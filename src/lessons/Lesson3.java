@@ -1,6 +1,6 @@
 package lessons;
 
-public class lesson3 {
+public class Lesson3 {
     public static void main(String[] args) {
        /* Создать переменную sentence типа String и разместить в нее следующий текст:
         "С другVXYой стороны, дальнейшее развитие различных форм деятелFZSьности создаёт предпосылки для новых принципов формирования матеXFриально-технической и кадровой базы.".

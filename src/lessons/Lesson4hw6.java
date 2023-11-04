@@ -2,7 +2,7 @@ package lessons;
 
 import java.util.Scanner;
 
-public class lesson4hw6 {
+public class Lesson4hw6 {
     public static void main(String[] args) {
         System.out.println("Просим вас вводить все названия с большой буквы!");
         System.out.println("Введите выбранную прогармму.");
